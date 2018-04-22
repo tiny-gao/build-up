@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/antlr4/antlr4.iml" filepath="$PROJECT_DIR$/antlr4/antlr4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asm/asm.iml" filepath="$PROJECT_DIR$/asm/asm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmeter/jmeter.iml" filepath="$PROJECT_DIR$/jmeter/jmeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmeter/src/main/main.iml" filepath="$PROJECT_DIR$/jmeter/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-provider/spi-provider.iml" filepath="$PROJECT_DIR$/spi-provider/spi-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-service/spi-service.iml" filepath="$PROJECT_DIR$/spi-service/spi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-spi/spi-spi.iml" filepath="$PROJECT_DIR$/spi-spi/spi-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmeter/src/test/test.iml" filepath="$PROJECT_DIR$/jmeter/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
